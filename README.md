@@ -29,12 +29,14 @@ Creating Database
 ![Alt text](image-10.png)
 
 Creating external file format
+
 ![Alt text](image-11.png)
 
 Creating external data source
 ![Alt text](image-12.png)
 
 Creating Schemas
+
 ![Alt text](image-13.png)
 
 Creating Views BY providing json file names in bulk
