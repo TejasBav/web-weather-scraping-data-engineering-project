@@ -23,6 +23,7 @@ Creating synapse analytics
 ![Alt text](image-6.png)
 
 Connect to external data in azure synapse analytics
+
 ![Alt text](image-7.png)
 
 Creating Database
