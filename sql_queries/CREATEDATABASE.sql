@@ -1,0 +1,4 @@
+CREATE DATABASE weatherdatastream;
+GO
+USE weatherdatastream;
+ALTER DATABASE weatherdatastream COLLATE Latin1_General_100_BIN2_UTF8;
