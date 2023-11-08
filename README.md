@@ -1,4 +1,6 @@
 # web-weather-scraping-data-engineering-project
+Creating ...
+datastream.py
 
 Creating Event Hub 
 ![Alt text](image.png)
@@ -14,6 +16,8 @@ Creating storage account for output
 
 Adding output to stream analytics job
 ![Alt text](image-5.png)
+
+Starting stream analytics job...
 
 Creating synapse analytics
 ![Alt text](image-6.png)
