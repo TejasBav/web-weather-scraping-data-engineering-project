@@ -33,6 +33,7 @@ Creating external file format
 ![Alt text](image-11.png)
 
 Creating external data source
+
 ![Alt text](image-12.png)
 
 Creating Schemas
